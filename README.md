@@ -1,7 +1,7 @@
 ### Olá, sou a Natanaele Balica 👋
 
-- 🔭 Hoje trabalho com Backend
-- 🌱 Estudando Javascript
+- 🔭 FullStack Developer
+
 
 <div align="center">
   <a href="https://github.com/nathbalica">
